@@ -1,0 +1,4 @@
+skladiste
+=========
+
+skladiste podataka
